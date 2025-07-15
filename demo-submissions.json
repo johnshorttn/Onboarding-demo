@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "email": "alice@example.com",
+    "message": "I love this site!",
+    "department": "Support"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "email": "bob@example.com",
+    "message": "Can you help me reset my password?",
+    "department": "Customer Service"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "email": "charlie@example.com",
+    "message": "Interested in your enterprise offering.",
+    "department": "Sales"
+  }
+]
